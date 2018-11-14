@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# Data
+cms_schema_reader/sample_enteries/*
+cms_schema_reader/sample_schemas/*
